@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title: GridStatusAncientBarrier
+## Notes: Tracker for Ancient Barrier on Malkorok encounter
+## Dependencies: Grid
+
+GridStatusAncientBarrier.lua
