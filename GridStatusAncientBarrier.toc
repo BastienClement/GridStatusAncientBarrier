@@ -1,4 +1,4 @@
-## Interface: 50400
+## Interface: 60000
 ## Title: GridStatusAncientBarrier
 ## Notes: Tracker for Ancient Barrier on Malkorok encounter
 ## Dependencies: Grid
